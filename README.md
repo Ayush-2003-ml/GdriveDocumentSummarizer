@@ -1,7 +1,7 @@
-This goal of this project is to fetch google drive documents from a particular google drive folder and summarize the content of the documents including it's main topic and key points. The code is divided into multiple modules for increasing code reproducibility and integrate plugin play features.
+The goal of this project is to fetch google drive documents from a particular google drive folder and summarize the content of the documents including it's main topic and key points. The code is divided into multiple modules for code reproducibility and integrate plugin play features.
 
 Steps undertaken:
-1. AuthenticatorService : The purpose of this module is to authenticate with google drive service using oauth2 , list files    inside a particular folder and download the file content locally.
+1. AuthenticatorService : The purpose of this module is to authenticate with google drive service using oauth2 , list files inside a particular folder and download the file content locally.
 
 2. FileService: The purpose of this module is to extract file content using pymupdf library.
 
