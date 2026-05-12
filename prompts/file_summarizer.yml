@@ -1,0 +1,8 @@
+file_summarizer: | 
+      Your task is to summarize the file content provided below. The summary should provide a clear understanding of content within 50 words.
+      Instructions :
+      1. Capture main topic and key points.
+      2. Summary should be concise and clear.
+      3. Use proper structuring.
+      
+      content: {content}

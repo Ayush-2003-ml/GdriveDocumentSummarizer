@@ -1,0 +1,33 @@
+filename,summary
+1-s2.0-S2352340923009411-main.pdf,"**Summary**
+
+**Main Topic:** 
+The MEFAR dataset, a comprehensive collection of physiological signals and questionnaire data, is presented to investigate occupational mental fatigue.
+
+**Key Points:**
+
+1. The dataset includes physiological signals from 23 participants across four occupational groups.
+2. The signals include EEG, BVP, EDA, HR, skin temperature, and 3-axis accelerometer data.
+3. The dataset is designed to analyze mental fatigue using the Chalder Fatigue Scale.
+4. The study aims to provide insights into the physiological mechanisms of mental fatigue and its effects on human performance.
+5. The dataset has the potential to develop machine learning algorithms for real-time detection of mental fatigue and enhance workplace safety.
+
+**Summary in 50 words:**
+
+The MEFAR dataset presents a comprehensive collection of physiological signals and questionnaire data to investigate occupational mental fatigue. The dataset includes signals from 23 participants across four occupational groups and aims to provide insights into the physiological mechanisms of mental fatigue and its effects on human performance."
+s12868-020-00569-1.pdf,"**Summary (Within 50 words)**
+
+A study investigated the impact of mental fatigue on brain activity in resting and task states using EEG. Results showed significant differences in brain activity between the two states, with alpha1 rhythm power increasing in resting state and beta power decreasing in task state. Relative power was more sensitive to mental fatigue."
+Kalanadhabhatta-PervasiveHealth2021-Camera.pdf,"**Summary**
+
+**Main Topic:** FatigueSet: A Multi-modal Dataset for Modeling Mental Fatigue and Fatigability
+
+**Key Points:**
+
+1. Fatigue is a complex psychophysiological condition affecting physical and mental performance.
+2. Fatigue management systems aim to detect and mitigate fatigue-related performance lapses.
+3. Existing research has limitations in studying fatigue using medical devices in clinical settings.
+4. FatigueSet is a multi-modal dataset collecting sensor data from wearable devices to explore the interplay between physical and mental fatigue.
+5. The dataset includes physiological sensors and cognitive performance measures to understand fatigue and its impact on mental performance.
+
+**Summary (50 words):** FatigueSet is a multi-modal dataset for modeling mental fatigue and fatigability. It collects sensor data from wearable devices to explore the interplay between physical and mental fatigue. The dataset aims to facilitate research towards a deeper understanding of fatigue and its impact on cognitive performance."

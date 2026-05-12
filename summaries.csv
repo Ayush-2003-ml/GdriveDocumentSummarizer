@@ -1,0 +1,20 @@
+filename,summary
+1-s2.0-S2352340923009411-main.pdf,"**Summary (50 words)**
+
+The MEFAR dataset is a comprehensive collection of physiological signals and questionnaires to analyze mental fatigue. It includes EEG, blood volume pulse, electrodermal activity, heart rate, skin temperature, and accelerometer data from 23 participants across four occupational groups."
+s12868-020-00569-1.pdf,"**Summary**
+
+**Main Topic:** The Impact of Mental Fatigue on Brain Activity
+
+**Key Points:**
+
+1. Mental fatigue affects brain activity in both resting and task states.
+2. EEG data analysis shows differences in brain activity between resting and task states.
+3. Relative power index is more sensitive to mental fatigue than power index.
+4. Dividing alpha frequency band into alpha1 and alpha2 bands improves statistical differences.
+5. Mental arithmetic task is an effective method for inducing mental fatigue.
+
+**Summary in 50 words:** This study investigates the impact of mental fatigue on brain activity using EEG data. Results show differences in brain activity between resting and task states, with relative power index being more sensitive to mental fatigue. Dividing alpha frequency band into alpha1 and alpha2 bands improves statistical differences."
+Kalanadhabhatta-PervasiveHealth2021-Camera.pdf,"**Summary (Within 50 words)**
+
+FatigueSet is a multi-modal dataset for modeling mental fatigue and fatigability. It includes sensor data from four wearable devices, collected while participants engage in physically and mentally demanding tasks. The dataset aims to facilitate research on fatigue management and development of diverse fatigue-aware applications."

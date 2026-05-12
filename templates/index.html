@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Document Summaries</title>
+
+    <style>
+
+        body{
+            font-family: Arial;
+            margin:40px;
+        }
+
+        table{
+            border-collapse: collapse;
+            width:100%;
+        }
+
+        th,td{
+            border:1px solid #ddd;
+            padding:12px;
+        }
+
+        th{
+            background:#f4f4f4;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+<h1>Google Drive Document Summarizer</h1>
+
+<a href="/download">
+    Download CSV Report
+</a>
+
+<br><br>
+
+<table>
+
+<tr>
+    <th>File Name</th>
+    <th>Summary</th>
+</tr>
+
+{% for item in results %}
+
+<tr>
+    <td>{{ item.filename }}</td>
+    <td>{{ item.summary }}</td>
+</tr>
+
+{% endfor %}
+
+</table>
+
+</body>
+</html>
